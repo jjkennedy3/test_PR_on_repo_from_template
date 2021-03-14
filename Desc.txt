@@ -1,0 +1,1 @@
+This will test if a PR between branches after a repository is created from a template can be merged.
